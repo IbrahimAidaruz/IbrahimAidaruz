@@ -1,7 +1,8 @@
 ### Hi there, I'm Ibrahim - aka [IbrahimAidaruz] 👋
 
 
-[![Github Follow](https://img.shields.io/twitter/follow/IbrahimAidaruz?color=1DA1F2&logo=twitter&style=for-the-badge)](h![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?IbrahimAidaruz=anuraghazra&show_icons=true&theme=radical)
+[![Github Follow](https://img.shields.io/twitter/follow/IbrahimAidaruz?color=1DA1F2&logo=twitter&style=for-the-badge)](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimAidaruz&show_icons=true&theme=radical)
+)
 )
 
 ## I'm a Third Year In Mechtronic Engineering, and Self Taught Programer!!
