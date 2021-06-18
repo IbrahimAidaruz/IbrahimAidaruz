@@ -1,7 +1,7 @@
 ### Hi there, I'm Ibrahim - aka [IbrahimAidaruz] 👋
 
 
-[![Github Follow](https://img.shields.io/twitter/follow/IbrahimAidaruz?color=1DA1F2&logo=twitter&style=for-the-badge)](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimAidaruz&show_icons=true&theme=radical)
+[![Github Follow](https://img.shields.io/twitter/follow/IbrahimAidaruz?color=1DA1F2&logo=twitter&style=for-the-badge)]()
 )
 )
 
@@ -43,3 +43,6 @@
 <br />
 
 ---
+###Github stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimAidaruz&show_icons=true&theme=radical
