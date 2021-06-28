@@ -1,6 +1,14 @@
-<h1 align="center">Hi 👋,I'm Ibrahim and I self taught 
+<h1 align="left">Hi 👋,I'm Ibrahim and I self taught 
 programer  </h1>
-<h3 align="left">I'm a Third Year In Mechtronic Engineering, and Self Taught Programer!!</h3>
+<h3 align="left"> I was born in Qandala, I 
+learned programing during 
+lock-down , I specialize web 
+development and database , 
+skilled in HTML , CSS , 
+JAVASCRIPT , REACT , NODE , 
+DJANGO , MYSQL , and GIT, I 
+create clean , professional 
+and functional websites </h3>
 
 - 🌱 I’m currently learning **everything 🤣**
 
