@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Aidaruz</h1>
-<h3 align="center">I'm a Third Year In Mechtronic Engineering, and Self Taught Programer!!</h3>
+<h1 align="center">Hi 👋,I'm Ibrahim and I self taught 
+programer  </h1>
+<h3 align="left">I'm a Third Year In Mechtronic Engineering, and Self Taught Programer!!</h3>
 
 - 🌱 I’m currently learning **everything 🤣**
 
